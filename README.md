@@ -2,6 +2,6 @@
 
 Language: `Javascript`
 
-Framework: `Reactjs`
+Framework: `React`
 
-Dependencies: `Redux`
+Dependencies: `Redux` `styled-components`

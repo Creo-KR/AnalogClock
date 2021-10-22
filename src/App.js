@@ -1,6 +1,6 @@
-import React from 'react';
-import Clock from './components/clock';
-import './App.css';
+import React from "react";
+import Clock from "./components/clock";
+import "./App.css";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <p>React Redux App.</p>
       </header>
       <main>
-        <Clock />
+        <Clock size={300} />
       </main>
     </div>
   );
